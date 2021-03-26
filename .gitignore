@@ -1,2 +1,5 @@
 node_modules/
 .env
+thumb.png
+vid.mp4
+client_oauth_token.json
